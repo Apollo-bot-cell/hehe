@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://i.gifer.com/3HeZ.gif');
+    background-size: cover;
+}
+h1{
+    font-family: 'Matrix', sans-serif;
+    color: green;
+    text-align: center;
+}
+p{
+    font-family: 'Matrix', sans-serif;
+    color: white;
+}
+#pilula{
+    width: auto;
+    height: auto;
+}
+.erro{
+    border-color: red;
+    border-width: 1vmax;
+}
+#inicio{
+    font-family: 'Matrix', sans-serif;
+    color: white;
+    text-align: center;
+}
